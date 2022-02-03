@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/coderunner](https://draculath
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/coderunner/graphs/contributors).
 
-[![Marco Janssen](https://avatars3.githubusercontent.com/u/1281284?v=3&s=70)](https://github.com/marc0janssen) |
+[![Marco Janssen](https://avatars.githubusercontent.com/u/5788988?v=4)](https://github.com/marc0janssen) |
 --- |
 [Marco Janssen](https://github.com/marc0janssen) |
 
