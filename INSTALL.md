@@ -16,3 +16,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/coderunner/
 2. Open Preferences...
 3. Select Themes
 4. Import "Dracula.tmTheme" (Little round icon beneath the Themes)
+5. Enjoy
