@@ -1,4 +1,4 @@
-# Dracula for [Coderunner](https://coderunnerapp.com)
+# Dracula for [CodeRunner](https://coderunnerapp.com)
 
 > A dark theme for [CodeRunner](https://coderunnerapp.com).
 
